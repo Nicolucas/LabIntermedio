@@ -20,8 +20,6 @@ Laboratorios de
 >Difraccion de electrones
 
 _____________________
-By
-
 Leonardo Rios E.
 
 Jorge N. Hayek V.
